@@ -35,7 +35,7 @@
 Olá! Eu sou o **Arthur Fernandes**, estudante do **3º semestre de Análise e Desenvolvimento de Sistemas (ADS)** na **SPTech – São Paulo Tech School**.
 
 - 🛡️ Atualmente atuo com **cybersecurity**, no lado **Blue Team** (defesa, monitoramento e proteção de ambientes)
-- 🐧 Uso **Linux** no dia a dia
+- 🐧  **Linux**
 - 💻 Tenho experiência em desenvolvimento, do **front-end** ao **back-end**, com **Java**, **Spring Boot**, **React** e **APIs REST**
 - 🌊 Gosto de unir o olhar de quem constrói sistemas com o de quem os protege
 
